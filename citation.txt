@@ -4,7 +4,6 @@
     month = "July",
     number = "4",
     title = "{3D Gaussian Splatting for Real-Time Radiance Field Rendering}",
-    url = "https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/",
     volume = "42",
     year = "2023"
 }
